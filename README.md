@@ -13,3 +13,7 @@
 ### Acknowledgements
 
 - [GitHub](https://github.com/graycampbell/Acknowledgements)
+
+### GCProgressView
+
+- [GitHub](https://github.com/graycampbell/GCProgressView)
