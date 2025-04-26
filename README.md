@@ -1,3 +1,15 @@
+### Swift Mocking
+
+- [GitHub](https://github.com/fetch-rewards/swift-mocking)
+
+### Swift Synchronization
+
+- [GitHub](https://github.com/fetch-rewards/swift-synchronization)
+
+### SwiftSyntaxSugar
+
+- [GitHub](https://github.com/fetch-rewards/SwiftSyntaxSugar)
+
 ### GCCalendar
 
 - [GitHub](https://github.com/graycampbell/GCCalendar)
