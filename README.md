@@ -2,9 +2,9 @@
 
 - [GitHub](https://github.com/fetch-rewards/swift-mocking)
 
-### Swift Synchronization
+### Swift Locking
 
-- [GitHub](https://github.com/fetch-rewards/swift-synchronization)
+- [GitHub](https://github.com/fetch-rewards/swift-locking)
 
 ### SwiftSyntaxSugar
 
