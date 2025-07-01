@@ -16,6 +16,10 @@
 - [CocoaPods](https://cocoapods.org/pods/GCCalendar)
 - [Documentation](https://graycampbell.github.io/GCCalendar)
 
+- ### GCProgressView
+
+- [GitHub](https://github.com/graycampbell/GCProgressView)
+
 ### GCCountryPicker
 
 - [GitHub](https://github.com/graycampbell/GCCountryPicker)
@@ -25,7 +29,3 @@
 ### Acknowledgements
 
 - [GitHub](https://github.com/graycampbell/Acknowledgements)
-
-### GCProgressView
-
-- [GitHub](https://github.com/graycampbell/GCProgressView)
