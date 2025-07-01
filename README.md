@@ -16,7 +16,7 @@
 - [CocoaPods](https://cocoapods.org/pods/GCCalendar)
 - [Documentation](https://graycampbell.github.io/GCCalendar)
 
-- ### GCProgressView
+### GCProgressView
 
 - [GitHub](https://github.com/graycampbell/GCProgressView)
 
