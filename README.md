@@ -1,14 +1,17 @@
 ### Swift Mocking
 
 - [GitHub](https://github.com/fetch-rewards/swift-mocking)
+- [Swift Package Index](https://swiftpackageindex.com/fetch-rewards/swift-mocking)
 
 ### Swift Locking
 
 - [GitHub](https://github.com/fetch-rewards/swift-locking)
+- [Swift Package Index](https://swiftpackageindex.com/fetch-rewards/swift-locking)
 
 ### SwiftSyntaxSugar
 
 - [GitHub](https://github.com/fetch-rewards/SwiftSyntaxSugar)
+- [Swift Package Index](https://swiftpackageindex.com/fetch-rewards/SwiftSyntaxSugar)
 
 ### GCCalendar
 
